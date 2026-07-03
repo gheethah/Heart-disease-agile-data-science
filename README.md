@@ -1,1 +1,1 @@
-# Heart-disease-agile-data-science
+# Heart Disease Project
